@@ -1,4 +1,4 @@
-# Propuesta Nueva Constitución en formato JSON
+# Propuesta Constitución Política en formato JSON
 
 **Aún falta un poco de trabajo**
 
